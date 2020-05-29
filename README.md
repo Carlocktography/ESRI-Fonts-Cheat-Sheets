@@ -16,7 +16,7 @@
 |          | ESRI Conservation.ttf            | 126        |          | 4.28          | 7e3a2cabd1b3de7d5a3fbfbb975e5c9afac1ea9a2fdff047e22f54badff9782e |
 |          | ESRI Crime Analysis.ttf          | 086        |          | 4.28          | 816e841c8c02a852ecc481afca0cdc7f617f8f2602e43d811887ec210241ae02 |
 |          | ESRI Default Marker.ttf          | 148        |          | 7.28          | e028060b132b7ef377532b43898517f7b4da910c981466de529308867c21624c |
-|          | ESRI Dimensioning.ttf            | 045         |          | 4.28          | aa22079d8c58adca753b522eacb13a24bde5066ffb3fcda617382aa174c3837c 
+|          | ESRI Dimensioning.ttf            | 045        |          | 4.28          | aa22079d8c58adca753b522eacb13a24bde5066ffb3fcda617382aa174c3837c 
 |          | ESRI ERS Infrastructures S1.ttf  | 087        |          | 4.28          | 8a5ce3a2f63650caa78811468a3b218c9e453c5b81d3d7cbe81f5bbdf3dfbbee |
 |          | ESRI ERS Operations S1.ttf       | 137        |          | 4.28          | 5b3b5ce42c076c9f497edf9250da110cd188f72d6f03ff9d3aaf5e0f867eb061 |
 |          | ESRI Elements.ttf                | 110        |          | 4.28          | 03f05715e895cc37317c425c10ff3b690734b8a591d22072cd29aca59fe89fb7 |
